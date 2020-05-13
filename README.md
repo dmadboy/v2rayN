@@ -1,4 +1,4 @@
-# v2rayN
+# v2rayN  这是一个可以翻墙的软件，与老王VPN配合使用
 
 ### How to use
 - If you are newbie please download v2rayN-Core.zip from releases
